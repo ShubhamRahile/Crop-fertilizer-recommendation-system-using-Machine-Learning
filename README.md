@@ -1,1 +1,2 @@
-# Crop-fertilizer-recommendation-system-using-Machine-Learning
+# Crop_Fertilizer_RS
+Based on RS by using ML
